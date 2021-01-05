@@ -1,0 +1,32 @@
+2021-01-05T13:17:02.859Z [myBankAPI] info: API Started!
+2021-01-05T13:18:27.407Z [myBankAPI] info: API Started!
+2021-01-05T13:19:36.297Z [myBankAPI] info: API Started!
+2021-01-05T13:27:40.666Z [myBankAPI] info: API Started!
+2021-01-05T13:29:04.350Z [myBankAPI] info: API Started!
+2021-01-05T13:29:46.744Z [myBankAPI] info: API Started!
+2021-01-05T13:31:37.616Z [myBankAPI] info: API Started!
+2021-01-05T13:32:03.460Z [myBankAPI] info: API Started!
+2021-01-05T13:32:10.269Z [myBankAPI] info: GET /grades
+2021-01-05T13:32:15.401Z [myBankAPI] info: GET /grades/:id
+2021-01-05T13:32:45.431Z [myBankAPI] info: API Started!
+2021-01-05T13:32:50.612Z [myBankAPI] info: GET /grades/:id
+2021-01-05T13:33:01.249Z [myBankAPI] info: API Started!
+2021-01-05T13:33:02.100Z [myBankAPI] info: GET /grades/30
+2021-01-05T13:33:12.090Z [myBankAPI] info: POST /grades/somaNotas - "Roberta Arcoverde" : 23
+2021-01-05T13:33:18.441Z [myBankAPI] info: POST /grades/mediaGrades - "Fórum" : 13.5
+2021-01-05T13:33:23.118Z [myBankAPI] info: POST /grades/mediaGrades - [{"id":26,"student":"Roberto Achar","subject":"02 - Node","type":"Fórum","value":17,"timestamp":"2020-05-19T18:21:25.128Z"},{"id":14,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.039Z"},{"id":38,"student":"Rodrigo Branas","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.217Z"}]
+2021-01-05T13:33:40.738Z [myBankAPI] error: POST /grade - account is not defined
+2021-01-05T13:34:10.932Z [myBankAPI] info: API Started!
+2021-01-05T13:34:14.841Z [myBankAPI] info: POST /grades - {"id":50,"student":"Matheus Carvalho","subject":"02 - Node","type":"Prova","value":40,"timestamp":"2021-01-05T13:34:14.812Z"}
+2021-01-05T13:34:23.950Z [myBankAPI] info: GET /grades/:id - [object Object]
+2021-01-05T13:34:40.607Z [myBankAPI] info: API Started!
+2021-01-05T13:34:43.677Z [myBankAPI] info: DELETE /grades/:id - [object Object]
+2021-01-05T13:35:18.019Z [myBankAPI] info: API Started!
+2021-01-05T13:35:30.059Z [myBankAPI] info: POST /grades - {"id":51,"student":"Matheus Carvalho","subject":"02 - Node","type":"Prova","value":40,"timestamp":"2021-01-05T13:35:30.042Z"}
+2021-01-05T13:35:37.834Z [myBankAPI] info: DELETE /grades/:id - {"nextId":52,"grades":[{"id":51,"student":"Matheus Carvalho","subject":"02 - Node","type":"Prova","value":40,"timestamp":"2021-01-05T13:35:30.042Z"}]}
+2021-01-05T14:08:02.519Z [myBankAPI] error: PUT /grade - account is not defined
+2021-01-05T14:08:14.788Z [myBankAPI] error: PUT /grade - account is not defined
+2021-01-05T14:08:16.465Z [myBankAPI] info: API Started!
+2021-01-05T14:08:20.288Z [myBankAPI] info: PUT /grades - {"id":22,"student":"Matheus Carvalho","subject":"02 - Node","type":"Prova","value":40,"timestamp":"2021-01-05T14:08:20.265Z"}
+2021-01-05T14:08:41.511Z [myBankAPI] info: API Started!
+2021-01-05T14:09:07.755Z [myBankAPI] info: PATCH /grades - {"id":2,"student":"Loiane Groner","subject":"02 - Node","type":"Fórum","value":20000,"timestamp":"2020-05-19T18:21:24.964Z"}
