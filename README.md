@@ -1,4 +1,4 @@
-# gradesControlAPI
+# grades-control-api
 IGTI - Bootcamp Modulo 2 - Desafio Grade Control API
 
 Construção do zero de uma API para servir o front com dados de um Json. OS dados continham nomes, cursos, matérias, notas e datas para cada aluno.
